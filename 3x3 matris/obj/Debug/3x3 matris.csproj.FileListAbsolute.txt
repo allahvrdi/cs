@@ -1,0 +1,7 @@
+C:\Users\ggbnj\Desktop\c#\3x3 matris\bin\Debug\3x3 matris.exe.config
+C:\Users\ggbnj\Desktop\c#\3x3 matris\bin\Debug\3x3 matris.exe
+C:\Users\ggbnj\Desktop\c#\3x3 matris\bin\Debug\3x3 matris.pdb
+C:\Users\ggbnj\Desktop\c#\3x3 matris\obj\Debug\3x3 matris.csproj.AssemblyReference.cache
+C:\Users\ggbnj\Desktop\c#\3x3 matris\obj\Debug\3x3 matris.csproj.CoreCompileInputs.cache
+C:\Users\ggbnj\Desktop\c#\3x3 matris\obj\Debug\3x3 matris.exe
+C:\Users\ggbnj\Desktop\c#\3x3 matris\obj\Debug\3x3 matris.pdb
