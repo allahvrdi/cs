@@ -1,0 +1,7 @@
+C:\Users\ggbnj\Desktop\c#\Calculate program\bin\Debug\Calculate program.exe.config
+C:\Users\ggbnj\Desktop\c#\Calculate program\bin\Debug\Calculate program.exe
+C:\Users\ggbnj\Desktop\c#\Calculate program\bin\Debug\Calculate program.pdb
+C:\Users\ggbnj\Desktop\c#\Calculate program\obj\Debug\Calculate program.csproj.AssemblyReference.cache
+C:\Users\ggbnj\Desktop\c#\Calculate program\obj\Debug\Calculate program.csproj.CoreCompileInputs.cache
+C:\Users\ggbnj\Desktop\c#\Calculate program\obj\Debug\Calculate program.exe
+C:\Users\ggbnj\Desktop\c#\Calculate program\obj\Debug\Calculate program.pdb
